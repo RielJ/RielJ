@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Twitter - @RieeeeelJ](https://twitter.com/RieeeeelJ)
 - 👨 Pronouns: He/His
 - ⚡ Fun fact: I'm a lil bit of an audiophile myself, and I love listening to music.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RielJ&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
