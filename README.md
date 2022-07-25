@@ -11,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RielJ&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text](https://github.com/rielj]/dotfiles/blob/master/workspace.png?raw=true)
+![Workspace Image](https://github.com/rielj/dotfiles/blob/master/workspace.png?raw=true)
