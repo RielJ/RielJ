@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate and help Open Source Projects.
 - 🤔 I’m looking for help with resources for improving myself as a person and as a developer.
 - 💬 Ask me about neovim, dotfile related questions, or any tech related stuff.
-- 📫 How to reach me: [Twitter - @RieeeeelJ](https://twitter.com/RieeeeelJ)
+- 📫 How to reach me: [Twitter - @RieeeeelJ](https://twitter.com/rieljdev)
 - 👨 Pronouns: He/His
 - ⚡ Fun fact: I'm a lil bit of an audiophile myself, and I love listening to music.
 
