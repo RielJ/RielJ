@@ -1,14 +1,25 @@
-### Hi there 👋
+# Riel Joseph Bulaybulay
 
-- 🔭 I’m currently looking for new experiences to delve in.
-- 🌱 I’m currently exploring modern techs.
-- 👯 I’m looking to collaborate and help Open Source Projects.
-- 🤔 I’m looking for help with resources for improving myself as a person and as a developer.
-- 💬 Ask me about neovim, dotfile related questions, or any tech related stuff.
-- 📫 How to reach me: [Twitter - @RieeeeelJ](https://twitter.com/rieljdev)
-- 👨 Pronouns: He/His
-- ⚡ Fun fact: I'm a lil bit of an audiophile myself, and I love listening to music.
+Senior Backend Engineer building real-time trading systems, smart contracts, and developer tools.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RielJ&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## What I Work On
 
-![Workspace Image](https://github.com/rielj/dotfiles/blob/master/workspace.png?raw=true)
+- **Blockchain** — Solana (Anchor), EVM (Solidity/Foundry), Hyperliquid, cross-chain protocols
+- **Backend** — Node.js, Go, Rust, PostgreSQL, Redis, WebSockets, message queues
+- **Trading Infrastructure** — DEX integrations (Jupiter, Orca, Raydium), automated execution, real-time data pipelines
+- **DeFi** — Prediction markets, token economics, vesting contracts, Merkle airdrops, delta-neutral strategies
+
+## Open Source
+
+- [wevm/viem#822](https://github.com/wevm/viem/pull/822) — Added `value` parameter to `deployContract` (merged)
+- [nyx](https://github.com/RielJ/nyx) — Tailwind CSS class sorter/formatter written in Rust
+- [RPSLS-web3](https://github.com/RielJ/RPSLS-web3) — Rock-Paper-Scissors-Lizard-Spock on Ethereum
+- [qa-runner](https://github.com/RielJ/qa-runner) — One-command local QA environment for non-technical testers
+- [ts-sql.nvim](https://github.com/RielJ/ts-sql.nvim) — SQL syntax highlighting inside TypeScript template literals for Neovim
+
+## Links
+
+- [rielj.xyz](https://rielj.xyz) — Portfolio & blog
+- [rielj.xyz/blog](https://rielj.xyz/blog) — Writing about backend engineering, DX, and Web3
+- [LinkedIn](https://linkedin.com/in/rielj)
+- [Twitter/X](https://twitter.com/rieljdev)
