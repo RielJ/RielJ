@@ -12,7 +12,7 @@ Senior Backend Engineer building real-time trading systems, smart contracts, and
 ## Open Source
 
 - [wevm/viem#822](https://github.com/wevm/viem/pull/822) — Added `value` parameter to `deployContract` (merged)
-- [nyx](https://github.com/RielJ/nyx) — Tailwind CSS class sorter/formatter written in Rust
+- [nyx](https://github.com/RielJ/nyx) — Tailwind CSS class sorter and formatter
 - [RPSLS-web3](https://github.com/RielJ/RPSLS-web3) — Rock-Paper-Scissors-Lizard-Spock on Ethereum
 - [qa-runner](https://github.com/RielJ/qa-runner) — One-command local QA environment for non-technical testers
 - [ts-sql.nvim](https://github.com/RielJ/ts-sql.nvim) — SQL syntax highlighting inside TypeScript template literals for Neovim
