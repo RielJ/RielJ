@@ -1,9 +1,10 @@
 # Riel Joseph Bulaybulay
 
-Senior Backend Engineer building real-time trading systems, smart contracts, and developer tools.
+Full-stack engineer, leaning backend, building AI agent tooling, real-time trading systems, smart contracts, and developer tools.
 
 ## What I Work On
 
+- **AI Engineering** — coding-agent tooling (pi-adw, pi-git-worktrees, pi-image-preview), AI-assisted apps (Rolecraft)
 - **Blockchain** — Solana (Anchor), EVM (Solidity/Foundry), Hyperliquid, cross-chain protocols
 - **Backend** — Node.js, Go, Rust, PostgreSQL, Redis, WebSockets, message queues
 - **Trading Infrastructure** — DEX integrations (Jupiter, Orca, Raydium), automated execution, real-time data pipelines
